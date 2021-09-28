@@ -10,5 +10,5 @@ This repository contains directories of each project.
 
 Directories | Description
 ------- | -------
-0x00-python-hello_world | Introduction to Python programming
+[0x00-python-hello_world](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/tree/main/0x00-python-hello_world) | Introduction to Python programming
 
