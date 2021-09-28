@@ -12,3 +12,5 @@ Files | Description
 [5-print_comb2.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/5-print_comb2.py) | program that prints numbers from 0 to 99
 [6-print_comb3.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/6-print_comp3.py) | program that prints all possible different combinations of two digits
 [7-add.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/7-add.py) | function that adds two integers and returns the result
+[8-pow.py](int_comp3.py) | program that prints all possible different combinations of two digits
+[7-add.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/8-pow.py) | function that computes a to the power of b and return the value
