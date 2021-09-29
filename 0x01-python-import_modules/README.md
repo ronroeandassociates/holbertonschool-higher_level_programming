@@ -8,6 +8,8 @@ Files | Description
 [1-args.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-import_modules/1-args.py) | program that prints the number of and the list of its arguments
 [2-variable_load.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-import_modules/2-variable_load.py) | program that imports the variable a from the file variable_load_2.py and prints its value.
 [3-safe_print_division.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-import_modules/3-safe_print_division.py) | function that divides 2 integers and prints the result
+[4-raise_exception.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-import_modules/4-raise_exception.py) | function that raises a type exception
+[5-raise_exception_msg.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-import_modules/5-raise_exception_msg.py) | function that raises a name exception with a message
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
