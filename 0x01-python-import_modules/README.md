@@ -4,8 +4,8 @@
 
 Files | Description
 ------ | -------
-0-add.py | program that imports the function def add(a, b): from the file add_0.py and prints the result of the addition 1 + 2 = 3
-
+[0-add.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-import_modules/0-add.py) | program that imports the function def add(a, b): from the file add_0.py and prints the result of the addition 1 + 2 = 3
+[1-args.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-import_modules/1-args.py) | program that prints the number of and the list of its arguments
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
