@@ -4,7 +4,8 @@
 
 Files | Description
 ------ | -------
-0-print_list_integer.py | function that prints all integers of a list
+[0-print_list_integer.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x02-python-data_structures/0-print_list_integer.py) | function that prints all integers of a list
+[1-element_at.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x02-python-data_structures/1-element_at.py) | function that retrieves an element from a list like in C
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
