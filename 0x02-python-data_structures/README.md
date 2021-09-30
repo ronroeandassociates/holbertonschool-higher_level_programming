@@ -17,6 +17,8 @@ Files | Description
 [10-divisible_by_2.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x02-python-data_structures/10-divisible_by_2.py) | function that finds all multiples of 2 in a list
 [11-delete_at.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x02-python-data_structures/11-delete_at.py) | function that deletes the item at a specific position in a list
 [12-switch.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x02-python-data_structures/12-switch.py) | Complete the source code in order to switch value of a and b
+[13-is_palindrome.c](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x02-python-data_structures/13-is_palindrome.c) | a function in C that checks if a singly linked list is a palindrome
+[lists.h](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x02-python-data_structures/lists.h) | given in the resources
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
