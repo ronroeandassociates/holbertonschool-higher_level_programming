@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""Documentation for a square class"""
+"""module to create a class named square"""
 
 
-class Square():
-    """Square class of a quadrilateral with four equal sides
+class Square:
+    """ class of a quadrilateral with out type or value"""
 
     def __init__(self, size);
         self.__size = size
