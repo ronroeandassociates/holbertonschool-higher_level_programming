@@ -2,8 +2,8 @@
 """module for doing square things"""
 
 class Square:
-    """define the zise of the eraqs"""
+    """a fancy quadrilateral with 90 degree corners and equal sides"""
 
-def __init__(self, size);
-    """more definition here"""
-   self.__size = size
+def __init__(self, size):
+    """done in a private mode"""
+    self.__size = size        
