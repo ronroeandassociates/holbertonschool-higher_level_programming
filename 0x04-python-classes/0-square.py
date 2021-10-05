@@ -4,7 +4,6 @@
 
 class Square():
     """Square class of a quadrilateral with four equal sides
-        Attributes:
-            None
-    """
-    pass
+
+    def __init__(self, size);
+        self.__size = size
