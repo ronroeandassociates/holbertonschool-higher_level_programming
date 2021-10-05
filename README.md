@@ -14,3 +14,4 @@ Directories | Description
 [0x01. Python - import & modules](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/tree/main/0x01-python-import_modules) | Work with modules errors and exceptions and imports
 [0x02-python-data_structures](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x02-python-data_structures) | a better understanding of lists and tuples
 [0x03-python-more_data_structures](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x03-python-more_data_structures) | working with set and dictionary and more data structures
+[0x04-python-classes](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x04-python-classes) | classes and objects oh my
