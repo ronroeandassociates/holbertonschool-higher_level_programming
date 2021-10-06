@@ -4,7 +4,12 @@
 
 Files | Description
 ------ | ------
-[0-square.py](0-square.py) | Square with size
+[0-square.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/tree/main/0x04-python-classes/0-square.py) | Square with size
+[1-square.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/tree/main/0x04-python-classes/1-square.py) | making it a valid size
+[2-square.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/tree/main/0x04-python-classes/2-square.py) | making it a valid area
+[3-square.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/tree/main/0x04-python-classes/3-square.py) | using a getter and setter
+[4-square.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/tree/main/0x04-python-classes/4-square.py) | making it all print out
+
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -29,3 +34,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What is the __dict__ of a class and/or instance of a class and what does it contain
 - How does Python find the attributes of an object or class
 - How to use the getattr function
+
+##### PERSONAL LOG
+stardate 99360.3 just received the call that my daughter is being admitted to the hospital to bring my Grandson out into the world.
+append.personal.log stardate 99361.45
+Been on pins and needles waiting to hear; the tragedy of the pandemic has made it impossible for the Grandparents to be at the hospital with their daughter so it has been a bit of stresser for us.  Many typos were made in the making of this project most would normally been caught before being uploaded to git hopefully when I update the personal log it will be with the news of a grandchild's picture
