@@ -9,7 +9,7 @@ def roman_to_int(roman_string):
     for i in range(len(roman_string)):
         if i > 0 and letters[rome[i]] > letters[rome[i-1]]:
             iVal += letters[rome[i]] - \
-                    2 * letters[rome[i-1]]
+                2 * letters[rome[i-1]]
         else:
             ival += letters[rome[i]]
     return ival            
