@@ -15,13 +15,13 @@ class Square:
     @size.setter
     def size(self, value):
         if tupe(value) is not int:
-        raise TypeError("SIZE MUST BE AN INTEGER")
+            raise TypeError("SIZE MUST BE AN INTEGER")
 
-    elif value < 0:
-        raise ValueError("SIZE MUST BE >=0")
+        elif value < 0:
+            raise ValueError("SIZE MUST BE >=0")
 
-    else:
-        self.__size = value
+        else:
+            self.__size = value
 
     def area(self):
         sq_area = self.__size ** 2
