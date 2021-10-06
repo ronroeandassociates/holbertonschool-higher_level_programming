@@ -6,5 +6,5 @@ class Square:
     """a fancy quadrilateral with 90 degree corners and equal sides"""
 
 
-def __init__(self, size):
-    self.__size = size        
+    def __init__(self, size):
+        self.__size = size        
