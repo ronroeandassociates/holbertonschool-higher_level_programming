@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-"""make a module with a class of square"""
+""" Define Square by size """
 
 
 class Square:
-    """make it all about size and some private attributes"""
-    def __init__(self, size=0)
+    """verify size with attirbutes"""
+    def __init__(self, size=0):
         self.__size = size
         if type(size) is not int:
             raise TypeError("size must be an integer")
