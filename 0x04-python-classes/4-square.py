@@ -19,6 +19,9 @@ class Square:
     elif value < 0:
         raise ValueError("SIZE MUST BE >=0")
 
+    else:
+        self.__size = value
+
     def area(self):
         sq_area = self.__size ** 2
         return sq_area
