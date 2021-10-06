@@ -2,7 +2,7 @@
 """ Define Square by size """
 
 
-Class Square:
+class Square:
     """Define size with verification"""
     def__init__(self, size=0):        
         self.__size = size
@@ -12,6 +12,6 @@ Class Square:
             raise ValueError("size must be >= 0")
     """Define area of square"""
 
-        def area(self, size=0):
-            sr_area = self.__size ** 2
-            return sr_area
+    def area(self, size=0):
+        sr_area = self.__size ** 2
+        return sr_area
