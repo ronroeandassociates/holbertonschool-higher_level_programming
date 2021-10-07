@@ -4,8 +4,9 @@
 
 Files | Description
 ------ | ------
-[0-positive_or_negative.py](0-positive_or_negative.py) |
-[1-last_digit.py](1-last_digit.py) |
+[0-positive_or_negative.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/0-positive_or_negative.py) | program will assign a random signed ``` number``` to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable ```number``` is positive or negative
+[1-last_digit.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/1-last_digit.py) | program will assign a random signed number to the variable ```number``` each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable ```number```
+[2-print_alphabet.py](2-print_alphabet.py)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
