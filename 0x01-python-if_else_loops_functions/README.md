@@ -12,6 +12,9 @@ Files | Description
 [5-print_comb2.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/5-print_comb2.py) | program that prints numbers from ```0``` to ```99```
 [6-print_comb3.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/6-print_comb3.py) | program that prints all possible different combinations of two digits
 [7-islower.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/7-islower.py) | function that checks for lowercase character
+[8. To uppercase](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/8-uppercase.py) | function that prints a string in uppercase followed by a new line
+[9-print_last_digit.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/9-print_last_digit.py) | function that prints the last digit of a number
+[10. FizzBuzz](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/12-fizzbuzz.py) | A favorite that has been done in shell C and now in Python 
 
 
 ## Learning Objectives
