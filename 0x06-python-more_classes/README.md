@@ -4,7 +4,10 @@
 
 Files | Description
 ------ | ------
-
+[0-rectangle.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x06-python-more_classes/0-rectangle.py) | class Rectangle that defines a rectangle
+[1-rectangle.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x06-python-more_classes/1-rectangle.py) | class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
+[2-rectangle.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x06-python-more_classes/2-rectangle.py) | class Rectangle that defines a rectangle by: (based on 1-rectangle.py)
+[3-rectangle.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x06-python-more_classes/3-rectangle.py) | class Rectangle that defines a rectangle by: (based on 2-rectangle.py)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
