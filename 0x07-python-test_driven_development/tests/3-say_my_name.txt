@@ -9,15 +9,15 @@ Testing import
 
 
 Testing Normal Display
-    >>> say_my_name('Ron', 'Olsen')
+    >>> say_my_name("Ron", "Olsen")
     My name is Ron Olsen
 
 Testing There is no Last name
-    >>> say_my_name('Ron')
+    >>> say_my_name("Ron")
     My name is Ron
 
 Testing First Name is Not str
-    >>> say_my_name(5, 'Olsen')
+    >>> say_my_name(5, "Olsen")
     Traceback (most recent call last):
     ...
     TypeError: first_name must be a string
