@@ -45,7 +45,7 @@ class Rectangle:
             raise ValueError("height must be >= 0")
         else:
             self.__height = value
-        
+
     def area(self):
         return self.__width * self.__height
 
@@ -64,6 +64,6 @@ class Rectangle:
             newString += "\n"
         newString = newString[:-1]
         return newString
-    
+
     def __repr__(self):
         return "Rectangle({:d}, {:d})".format(self.__width, self.__height)
