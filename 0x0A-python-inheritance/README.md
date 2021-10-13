@@ -4,7 +4,7 @@
 
 Files | Description
 ------ | ------
-
+[0-lookup.py](ihttps://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0A-python-inheritance/0-lookup.py) |function that returns the list of available attributes and methods of an object
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
