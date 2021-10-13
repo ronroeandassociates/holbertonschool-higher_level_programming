@@ -9,7 +9,9 @@ Files | Description
 [2-is_same_class.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0A-python-inheritance/2-is_same_class.py) |  function that returns ```True``` if the object is exactly an instance of the specified class ; otherwise ```False```
 [3-is_kind_of_class.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0A-python-inheritance3-is_kind_of_class.py) | function that returns ```True``` if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise ```False```
 [4-inherits_from.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0A-python-inheritance/4-inherits_from.py) | function that returns ```True``` if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise ```False```
-
+[5-base_geometry.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0A-python-inheritance/5-base_geometry.py) | Write an empty class ```BaseGeometry```
+[6-base_geometry.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0A-python-inheritance/6-base_geometry.py) | Write a class ```BaseGeometry```(based on ```5-base_geometry.py```)
+[7-base_geometry.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0A-python-inheritance/7-base_geometry.py) | Write a class ```BaseGeometry``` (based on ```6-base_geometry.py```)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
