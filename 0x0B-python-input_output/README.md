@@ -4,14 +4,14 @@
 
 Files | Description
 ------ | ------
-[0-read_file.py](0-read_file.py) | function that reads a text file (``UTF8``) and prints it to stdout
-[1-write_file.py](1-write_file.py) | function that writes a string to a text file (``UTF8``) and returns the number of characters written
-[2-append_write.py](2-append_write.py) | function that appends a string at the end of a text file (``UTF8``) and returns the number of characters added
-[3-to_json_string.py](3-to_json_string.py) |  function that returns the JSON representation of an object (string)
-[4-from_json_string.py](4-from_json_string.py) |  function that returns an object (Python data structure) represented by a JSON string
-[5-save_to_json_file.py](5-save_to_json_file.py) | function that writes an Object to a text file, using a JSON representation
-[6-load_from_json_file.py](6-load_from_json_file.py) | function that creates an Object from a \“JSON file\" 
-[7-add_item.py](7-add_item.py) | script that adds all arguments to a Python list, and then save them to a file
+[0-read_file.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/0-read_file.py) | function that reads a text file (``UTF8``) and prints it to stdout
+[1-write_file.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/1-write_file.py) | function that writes a string to a text file (``UTF8``) and returns the number of characters written
+[2-append_write.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/2-append_write.py) | function that appends a string at the end of a text file (``UTF8``) and returns the number of characters added
+[3-to_json_string.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/3-to_json_string.py) |  function that returns the JSON representation of an object (string)
+[4-from_json_string.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/4-from_json_string.py) |  function that returns an object (Python data structure) represented by a JSON string
+[5-save_to_json_file.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/5-save_to_json_file.py) | function that writes an Object to a text file, using a JSON representation
+[6-load_from_json_file.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/6-load_from_json_file.py) | function that creates an Object from a "JSON file"
+[7-add_item.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/7-add_item.py) | script that adds all arguments to a Python list, and then save them to a file
 
 
 ## Learning Objectives
