@@ -10,7 +10,8 @@ Files | Description
 [3-to_json_string.py](3-to_json_string.py) |  function that returns the JSON representation of an object (string)
 [4-from_json_string.py](4-from_json_string.py) |  function that returns an object (Python data structure) represented by a JSON string
 [5-save_to_json_file.py](5-save_to_json_file.py) | function that writes an Object to a text file, using a JSON representation
- 
+[6-load_from_json_file.py](6-load_from_json_file.py) | function that creates an Object from a \“JSON file\" 
+[7-add_item.py](7-add_item.py) | script that adds all arguments to a Python list, and then save them to a file
 
 
 ## Learning Objectives
