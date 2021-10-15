@@ -12,7 +12,10 @@ Files | Description
 [5-save_to_json_file.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/5-save_to_json_file.py) | function that writes an Object to a text file, using a JSON representation
 [6-load_from_json_file.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/6-load_from_json_file.py) | function that creates an Object from a "JSON file"
 [7-add_item.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/7-add_item.py) | script that adds all arguments to a Python list, and then save them to a file
-
+[8-class_to_json.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/8-class_to_json.py) | function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object
+[9-student.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/9-student.py) | Write a class ``Student`` that defines a student
+[10-student.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/10-student.py) | Write a class ``Student`` that defines a student by: (based on ``9-student.py``)
+[11-student.py](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output/11-student.py) | Write a class ``Student`` that defines a student by: (based on ``10-student.py``)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
