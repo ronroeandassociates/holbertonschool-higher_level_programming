@@ -14,7 +14,7 @@ class Student:
         """Retrieves dictionary of Student with conditions to filter
         """
 
-        if attrs == None:
+        if attrs is not None:
             return self.__dict__
         else:
             temp = {}
