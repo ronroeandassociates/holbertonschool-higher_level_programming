@@ -14,7 +14,7 @@ class Student:
         """Retrieves dictionary of Student with conditions to filter
         """
 
-        if attrs == None or type(attrs) != list:
+        if attrs == None:
             return self.__dict__
         else:
             temp = {}
@@ -28,6 +28,6 @@ class Student:
     def reload_from_json(self, json):
         """Replaces all items in `json`
         """
-        
+
         for items in json.keys():
             self.__dict__[items] = json[items]
