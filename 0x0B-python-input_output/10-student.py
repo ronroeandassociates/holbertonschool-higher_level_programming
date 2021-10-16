@@ -13,8 +13,8 @@ class Student:
     def to_json(self, attrs=None):
         """Retrieves dictionary of Student with conditions to filter
         """
-        
-        if attrs == None or type(attrs) != list:
+
+        if attrs == None:
             return self.__dict__
         else:
             temp = {}
@@ -24,4 +24,3 @@ class Student:
                 if elem in self.__dict__.keys():
                     temp[elem] = self.__dict__[elem]
             return temp
-
