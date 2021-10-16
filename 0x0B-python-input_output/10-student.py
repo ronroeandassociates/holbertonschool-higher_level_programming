@@ -14,7 +14,8 @@ class Student:
         """Retrieves dictionary of Student with conditions to filter
         """
 
-        if attrs is not None and all(isinstance(x,str) for x in attrs):
+        if attrs is not None or type(attrs) !=list:
+            
             return self.__dict__
         else:
             temp = {}
