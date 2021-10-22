@@ -67,10 +67,8 @@ class Rectangle(Base):
 
         def display(self):
             """display rectangle with ### """
-            if self.__y  != 0:
+            if self.__y != 0:
                 for newline in range(self.y):
                     print()
                 for row in range(self.__height):
                     print((self.__x * " ") + (self.__width * '#'))
-
-
