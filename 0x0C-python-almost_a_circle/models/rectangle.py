@@ -67,8 +67,16 @@ class Rectangle(Base):
 
         def display(self):
             """display rectangle with ### """
+
             if self.__y != 0:
                 for newline in range(self.y):
                     print()
                 for row in range(self.__height):
                     print((self.__x * " ") + (self.__width * '#'))
+
+        def __str__(self):
+            """Returns formatted info display"""
+
+            return "[{}] ({}) {}/{} - {}/{}".format(self.__class__.__name__,
+                                                    self.id, self.__x, self.__y,
+                                                    self.__width, self.__height)
