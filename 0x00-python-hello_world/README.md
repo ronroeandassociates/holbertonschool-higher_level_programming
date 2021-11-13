@@ -42,3 +42,5 @@
 - Scope of variables
 - What’s a traceback
 - What are the arithmetic operators and how to use them
+
+![ROE LOGO](/images/roeHR-01.png)
