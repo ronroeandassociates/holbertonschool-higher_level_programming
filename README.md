@@ -1,3 +1,4 @@
+![ROE LOGO](/images/roeHR-01.png)
 # Holberton School Higher-level Programming Track
 
 ## Description
