@@ -1,6 +1,6 @@
-<img src="/images/roeHR-01.png" width=10% height=10%>
+<img src="/images/roeHR-01.png" width=10% height=10%> # 0x00-python-hello_world
 
-# 0x00-python-hello_world
+
 
 ## Table of contents
 
