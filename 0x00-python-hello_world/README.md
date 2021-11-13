@@ -43,4 +43,4 @@
 - What’s a traceback
 - What are the arithmetic operators and how to use them
 
-![ROE LOGO](/images/roeHR-01.png width "400" height "400")
+![ROE LOGO](/images/roeHR-01.png) {width "400" height "400"}
