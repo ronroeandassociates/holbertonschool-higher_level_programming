@@ -1,4 +1,7 @@
-<img align="center" src="/images/roeHR-01.png" width=10% height=10%> 
+<p align="center">
+<img src="/images/roeHR-01.png" width=10% height=10%>
+</p>
+
 # 0x00-python-hello_world
 
 ## Table of contents
