@@ -1,3 +1,5 @@
+<img src="/images/roeHR-01.png" width=30% height=30%>
+
 # 0x00-python-hello_world
 
 ## Table of contents
@@ -43,4 +45,4 @@
 - What’s a traceback
 - What are the arithmetic operators and how to use them
 
-<img src="/images/roeHR-01.png" width=50% height=50%>
+
