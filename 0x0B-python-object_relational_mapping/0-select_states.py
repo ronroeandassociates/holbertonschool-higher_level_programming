@@ -18,6 +18,7 @@ def main_states():
 
     for row in cur.fetchall():
         print(row)
+    cur.close()
     db.close()
 
 
