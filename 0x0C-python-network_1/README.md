@@ -15,5 +15,5 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to manipulate data from an external service
 
 <p align="center">
-<img src="/images/roeHR-01.png" width=10% height=10%>
+<img src="../images/roeHR-01.png" width=10% height=10%>
 </p>

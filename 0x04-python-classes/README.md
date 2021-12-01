@@ -44,5 +44,5 @@ append.personal.log stardate 99361.45
 Been on pins and needles waiting to hear; the tragedy of the pandemic has made it impossible for the Grandparents to be at the hospital with their daughter so it has been a bit of stresser for us. Many typos were made in the making of this project most would normally been caught before being uploaded to git hopefully when I update the personal log it will be with the news of a grandchild's picture
 
 <p align="center">
-<img src="/images/roeHR-01.png" width=10% height=10%>
+<img src="../images/roeHR-01.png" width=10% height=10%>
 </p>

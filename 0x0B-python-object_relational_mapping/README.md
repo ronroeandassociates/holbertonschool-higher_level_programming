@@ -18,5 +18,5 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to map a Python Class to a MySQL table
 
 <p align="center">
-<img src="/images/roeHR-01.png" width=10% height=10%>
+<img src="../images/roeHR-01.png" width=10% height=10%>
 </p>

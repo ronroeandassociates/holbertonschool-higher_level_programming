@@ -21,3 +21,7 @@ Learning Objectives
 - How to INSERT, UPDATE or DELETE data
 - What are subqueries
 - How to use MySQL functions
+
+<p align="center">
+<img src="../images/roeHR-01.png" width=10% height=10%>
+</p>

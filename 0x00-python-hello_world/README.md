@@ -46,3 +46,7 @@
 - Scope of variables
 - What’s a traceback
 - What are the arithmetic operators and how to use them
+
+<p align="center">
+<img src="../images/roeHR-01.png" width=10% height=10%>
+</p>
