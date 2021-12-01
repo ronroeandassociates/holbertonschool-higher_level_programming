@@ -24,4 +24,6 @@ This repository contains directories of each project.
 | [0x08. Python - Input/Output](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0B-python-input_output)                       | Learning about Input and Output                           |
 | [0x09. Python - Almost a circle](https://github.com/ronroeandassociates/holbertonschool-higher_level_programming/blob/main/0x0C-python-almost_a_circle)                 | this project will review everything about Python          |
 
-![ROE LOGO](/images/roeHR-01.png)
+<p align="center">
+<img src="/images/roeHR-01.png" width=10% height=10%>
+</p>
