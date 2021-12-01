@@ -1,8 +1,15 @@
+<p align="center">
+<img src="/images/roeHR-01.png" width=10% height=10%>
+</p>
+
 # 0x00. SQL - Introduction
+
 Learning Objectives
+
 ## At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 ## General
+
 - What’s a database
 - What’s a relational database
 - What does SQL stand for

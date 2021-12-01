@@ -5,6 +5,7 @@
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 ## General
+
 - How to create a new MySQL user
 - How to manage privileges for a user to a database or table
 - What’s a PRIMARY KEY
@@ -13,3 +14,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to retrieve datas from multiple tables in one request
 - What are subqueries
 - What are JOIN and UNION
+
+<p align="center">
+<img src="/images/roeHR-01.png" width=10% height=10%>
+</p>
