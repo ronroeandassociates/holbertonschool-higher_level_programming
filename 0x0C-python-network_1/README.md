@@ -14,4 +14,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to fetch JSON resources
 - How to manipulate data from an external service
 
-![ROE LOGO](/images/roeHR-01.png)
+<p align="center">
+<img src="/images/roeHR-01.png" width=10% height=10%>
+</p>
