@@ -28,5 +28,5 @@ This repository contains directories of each project.
 <img src="/images/roeHR-01.png" width=10% height=10%>
 </p>
 <p align="center">
-<img src="/images/colored-photologo-#0099999.png" width=40% height=30%>
+<img src="images/colored-photologo-#009999.png" width=40% height=30%>
 </p>
