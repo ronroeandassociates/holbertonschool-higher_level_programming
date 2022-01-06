@@ -1,7 +1,5 @@
 #!/usr/bin/node
 
-/* script that prints a square */
-
 const MyVar = process.argv[2];
 let A = '';
 if (isNaN(MyVar) === true) {
