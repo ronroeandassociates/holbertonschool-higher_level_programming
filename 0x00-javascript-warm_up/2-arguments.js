@@ -1,8 +1,5 @@
 #!/usr/bin/node
 
-/* script that prints a message depending of the 
-number of arguments passed */
-
 let x = 0;
 process.argv.forEach((_val, _index) => {
     x++;
