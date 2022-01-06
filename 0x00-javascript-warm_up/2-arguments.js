@@ -1,5 +1,4 @@
 #!/usr/bin/node
-
 let x = 0;
 process.argv.forEach((_val, _index) => {
     x++;
