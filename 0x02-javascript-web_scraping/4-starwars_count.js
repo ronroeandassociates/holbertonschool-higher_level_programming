@@ -2,20 +2,19 @@
 
 const request = require('request');
 const url = process.argv[2];
-request.get(url, function (err, response, body) {
-  let count = 0;
+request.get(url, (err, respose, body) => {
   if (err) {
     console.log(err);
-  }
-  const data = JSON.parse(body);
-  for (let i = 0; data.results[i] !== undefined; i++) {
-    if (
-      data.results[i].characters.includes(
-        'https://swapi-api.hbtn.io/api/people/18/'
-      )
-    ) {
-      count++;
+  } else {
+    const films = JSON.parse(body).results;
+    let ct = 0;
+    for (const film of films) {
+      for (const character of film.characters) {
+        if (character.includes('18')) {
+          ct++;
+        }
+      }
     }
+    console.log(ct);
   }
-  console.log(count);
 });
