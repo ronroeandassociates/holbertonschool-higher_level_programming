@@ -1,11 +1,12 @@
+![bann js osc](https://github.com/ronroeandassociates/assets/blob/master/images/0x01_javascript-objects_scopes_closures_ban.png)
+
 # 0x01. JavaScript - Objects, Scopes and Closures
 
 ## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-## General
-
+```
 - Why JavaScript programming is amazing
 - How to create an object in JavaScript
 - What this means
@@ -14,10 +15,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What is a closure
 - What is a prototype
 - How to inherit an object from another
-
-<p align="center">
-<img src="/images/roeHR-01.png" width=10% height=10%>
-</p>
-<p align="center">
-<img src="images/colored-photologo-#009999.png" width=40% height=30%>
-</p>
+```

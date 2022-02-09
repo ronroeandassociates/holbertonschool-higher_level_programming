@@ -1,11 +1,12 @@
+![banner jswrmup](https://github.com/ronroeandassociates/assets/blob/master/images/0X00_javascript_warm_up_ban.png)
+
 # 0x00. JavaScript - Warm up
 
 ## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-## General
-
+```
 - Why JavaScript programming is amazing
 - How to run a JavaScript script
 - How to create variables and constants
@@ -22,10 +23,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What are the arithmetic operators and how to use them
 - How to manipulate dictionary
 - How to import a file
-
-<p align="center">
-<img src="/images/roeHR-01.png" width=10% height=10%>
-</p>
-<p align="center">
-<img src="/images/colored-photologo-#009999.png" width=40% height=30%>
-</p>
+```
