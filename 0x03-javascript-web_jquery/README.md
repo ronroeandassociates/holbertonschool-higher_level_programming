@@ -1,4 +1,4 @@
-[ban js jqu](https://github.com/ronroeandassociates/assets/blob/master/images/0x03_javascript_web_jquery.png)
+![ban js jqu](https://github.com/ronroeandassociates/assets/blob/master/images/0x03_javascript_web_jquery.png)
 
 # 0x03. JavaScript - Web jQuery
 
