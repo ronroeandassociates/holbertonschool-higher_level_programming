@@ -1,4 +1,4 @@
-![higher level banner](https://github.com/ronroeandassociates/assets/blob/images/hshlp_banner.png)
+![higher level banner](https://github.com/ronroeandassociates/assets/blob/master/images/hshlp_banner.png)
 
 # Holberton School Higher-level Programming Track
 
