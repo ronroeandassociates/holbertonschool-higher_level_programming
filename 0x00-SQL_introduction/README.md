@@ -1,27 +1,19 @@
-<p align="center">
-<img src="/images/roeHR-01.png" width=10% height=10%>
-</p>
+![0x00. SQL - Introduction](https://github.com/ronroeandassociates/assets/blob/master/images/0x00_sql_introduction.png)
 
 # 0x00. SQL - Introduction
 
-Learning Objectives
+## Learning Objectives
 
-## At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-
-## General
+At the end of this project, you are expected to be able to `explain to anyone`, **without the help of Google**:
 
 - What’s a database
 - What’s a relational database
 - What does SQL stand for
 - What’s MySQL
 - How to create a database in MySQL
-- What does DDL and DML stand for
-- How to CREATE or ALTER a table
-- How to SELECT data from a table
-- How to INSERT, UPDATE or DELETE data
-- What are subqueries
+- What does `DDL` and `DML` stand for
+- How to `CREATE` or `ALTER` a table
+- How to `SELECT` data from a table
+- How to `INSERT`, `UPDATE` or `DELETE` data
+- What are `subqueries`
 - How to use MySQL functions
-
-<p align="center">
-<img src="../images/roeHR-01.png" width=10% height=10%>
-</p>
