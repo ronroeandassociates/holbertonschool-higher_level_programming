@@ -1,4 +1,4 @@
-[0x0B. Python - Object-relational mapping](https://github.com/ronroeandassociates/assets/blob/master/images/0x0B_python_object_relational_mapping.png)
+![0x0B. Python - Object-relational mapping](https://github.com/ronroeandassociates/assets/blob/master/images/0x0B_python_object_relational_mapping.png)
 
 # 0x0B. Python - Object-relational mapping
 
