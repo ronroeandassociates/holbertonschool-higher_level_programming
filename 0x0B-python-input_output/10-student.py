@@ -13,13 +13,12 @@ class Student:
         """Retrieves dictionary of Student with conditions to filter
         """
 
-        if attrs == None or type(attrs) != list:
+        if attrs is None or type(attrs) != list:
             return self.__dict__
-        else:
-            temp = {}
-            for elem in attrs:
-                if type(elem) != str:
-                    return self.__dict__
-                if elem in self.__dict__.keys():
-                    temp[elem] = self.__dict__[elem]
-            return temp
+        temp = {}
+        for elem in attrs:
+            if type(elem) != str:
+                return self.__dict__
+            if elem in self.__dict__.keys():
+                temp[elem] = self.__dict__[elem]
+        return temp

@@ -2,6 +2,7 @@
 """module prints state object argument from database using SQLAlchemy
 """
 
+
 from sys import argv
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -16,8 +17,7 @@ if __name__ == "__main__":
     state_obj = argv[4]
 
     # setup engine
-    engine_string = "mysql://{}:{}@localhost:3306/{}".format(username,
-                                                             passwd, db)
+    engine_string = f"mysql://{username}:{passwd}@localhost:3306/{db}"
     # default username: root, passwd: "", db: hbtn_0e_6_usa
     engine = create_engine(engine_string)
     Base.metadata.bind = engine
@@ -30,7 +30,7 @@ if __name__ == "__main__":
     found_flag = 0
     for obj in list:
         if obj.name == state_obj:
-            print("{}".format(obj.id))
+            print(f"{obj.id}")
             found_flag = 1
     if found_flag == 0:
         print("Not found")

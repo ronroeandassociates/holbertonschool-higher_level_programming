@@ -2,6 +2,7 @@
 """add stuff"""
 
 
+
 import sys
 import json
 
@@ -15,7 +16,5 @@ except FileNotFoundError:
     loadFile = []
 
 argc = len(sys.argv)
-for idx in range(1, argc):
-    loadFile.append(sys.argv[idx])
-
+loadFile.extend(sys.argv[idx] for idx in range(1, argc))
 save_to_json_file(loadFile, "add_item.json")

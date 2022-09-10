@@ -2,6 +2,7 @@
 """module deletes all State objects with letter 'a' in db using SQLAlchemy
 """
 
+
 from sys import argv
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -15,8 +16,7 @@ if __name__ == "__main__":
     db = argv[3]
 
     # setup engine
-    engine_string = "mysql://{}:{}@localhost:3306/{}".format(username,
-                                                             passwd, db)
+    engine_string = f"mysql://{username}:{passwd}@localhost:3306/{db}"
     # default username: root, passwd: "", db: hbtn_0e_6_usa
     engine = create_engine(engine_string)
     Base.metadata.bind = engine
