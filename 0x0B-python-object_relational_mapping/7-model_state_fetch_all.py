@@ -2,6 +2,7 @@
 """module lists all State objects from database hbtn_0e_6_usa using SQLAlchemy
 """
 
+
 from sys import argv
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -13,8 +14,7 @@ if __name__ == "__main__":
     db = argv[3]
 
     # setup engine
-    engine_string = "mysql://{}:{}@localhost:3306/{}".format(username,
-                                                             passwd, db)
+    engine_string = f"mysql://{username}:{passwd}@localhost:3306/{db}"
     # default username: root, passwd: "", db: hbtn_0e_6_usa
     engine = create_engine(engine_string)
     Base.metadata.bind = engine
@@ -25,4 +25,4 @@ if __name__ == "__main__":
 
     list = session.query(State).order_by(State.id).all()
     for elem in list:
-        print("{}: {}".format(elem.id, elem.name))
+        print(f"{elem.id}: {elem.name}")

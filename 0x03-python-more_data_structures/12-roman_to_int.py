@@ -4,9 +4,9 @@ def roman_to_int(roman_string):
             'C': 100, 'D': 500, 'M': 1000}
     ival = 0
     rome = roman_string
-    if type(roman_string) != str or roman_string is None:
+    if type(rome) != str or rome is None:
         return 0
-    for i in range(len(roman_string)):
+    for i in range(len(rome)):
         if i > 0 and letters[rome[i]] > letters[rome[i-1]]:
             iVal += letters[rome[i]] - \
                 2 * letters[rome[i-1]]
